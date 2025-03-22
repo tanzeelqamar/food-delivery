@@ -150,6 +150,10 @@ sup{
     position: relative;
 margin-top: -35px;
 }
+.s-2{
+    display: flex;
+    flex-direction: row;
+}
 #homeicon{
     border-radius: 50%;
     width: 100px;
@@ -550,7 +554,7 @@ margin-top: -35px;
     height: 80px;
    margin-left: 0px;
     }
-    .slide{
+    /* .slide{
        justify-content: flex-start;
 display: grid;
 grid-template-columns: auto auto;
@@ -563,7 +567,7 @@ margin-top: -154px;
     #hicon{
         width: 50px;
         height: 50px;
-    }
+    } */
     #bgimage{
         width: 900px;
     }
